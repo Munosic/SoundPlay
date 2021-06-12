@@ -1,3 +1,3 @@
 # SoundPlay
 
-Sound.appをダウンロードしてアプリを実行できます。<br>
+SoundPlay.appをダウンロードしてアプリを実行できます。<br>
